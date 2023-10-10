@@ -1,0 +1,12 @@
+.container{
+    background-color: #ccc;
+}
+
+.row {
+    background-color: yellow;
+}
+
+.col div{
+    background-color: green;
+    color: #ffff;
+}
